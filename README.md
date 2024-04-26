@@ -9,7 +9,7 @@
 
 <div align="center">
   <h3>
-    封面来源：[爱吃披萨の盖瑞 - SMOKE INSIDE](https://b23.tv/f4Utef8)
+    封面来源：<a href="https://b23.tv/f4Utef8">爱吃披萨の盖瑞</a> - <a href="https://b23.tv/viAdTXS">SMOKE INSIDE</a>
   </h3>
 </div>
 
