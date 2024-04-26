@@ -1,9 +1,8 @@
-# GI-Download-Library
+# LiTang_Gold_Music(理塘金曲收录/补档合集)。
 ![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
-[EN](README.md) | [简中](README_zh-CN.md) | [繁中](README_zh-TW.md)
 
 ---
-Partial download services are provided by [**哆啦D夢|DuolaD**](https://github.com/DuolaD) and [**CYTeam**](https://www.cyteam.cn/).  
+智慧不是生命的第一选择，锐克才是.  
 ---
 
 ## Genshin and Yuanshen Download Links
