@@ -7,9 +7,11 @@
 
   ![Compressed](Readme.md-image/compressed.png)
 
----
-智慧不是生命的第一选择，锐克才是.  
----
+<div align="center">
+  <h3>
+    封面来源：[爱吃披萨の盖瑞 - SMOKE INSIDE](https://b23.tv/f4Utef8)
+  </h3>
+</div>
 
 ## Genshin and Yuanshen Download Links
 ### Tips
