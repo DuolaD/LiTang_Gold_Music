@@ -8,4 +8,4 @@
 **注意**: 
 * 本仓库上传的版本为完整版，并非YouTube和BiliBili上的和谐版。  
 
-[音频/视频/封面图下载]()
+[音频/视频/封面图下载](https://github.com/DuolaD/LiTang_Gold_Music/releases/tag/IGS)
