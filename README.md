@@ -1,5 +1,11 @@
-# LiTang_Gold_Music(理塘金曲收录/补档合集)  
-![paimon](https://upload-static.hoyoverse.com/payment-center/2020/08/07/0ff079b16fe6f9dfbf4eeb6e88a760b6_3134491283013841501.png)
+<div align="center">
+  <h1 class="header">LiTang_Gold_Music(理塘金曲收录/补档合集)</h1>
+  <h3>
+    智慧不是生命的第一选择，锐刻才是
+  </h3>
+</div>
+
+  ![Compressed](Readme.md-image/compressed.png)
 
 ---
 智慧不是生命的第一选择，锐克才是.  
