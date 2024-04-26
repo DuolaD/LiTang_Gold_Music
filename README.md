@@ -13,27 +13,41 @@
   </h3>
 </div>
 
-## Genshin and Yuanshen Download Links
-### Tips
-Since the 3.1.5 beta, game developer has added key and cookie verification to the download link, so raw links of beta will not allow to download beta resources for people who doesn't have beta access, but links still welcomed for archive purposes!
+## 〢 介绍 and 仓库里面有什么
+* 这个仓库主要用于收录/补档曾经流传于各网站上的理塘金曲。
+* 我会尽力将搜索到的信息放在各个歌曲分类文件夹内的Readme.md之中。但由于一些原因，部分歌曲的原作者已经无法找到。
+* 如有侵权请联系我进行删除，
 
-GenshinImpact_CBT and Yuanshen_CBT are pre-release, regardless of their version, they came out **before** 0.7.0
+**注意**: 
+* 这个仓库可能会不定时更新。
+* 该仓库仅用于文件归档，并无任何。
+* 任何人都可以做出Fork本仓库并通过Pull Requset功能为本仓库作出贡献。
 
-### What's inside
-* Links of the **_"autopatchhk"_** and **_"autopatchcn"_** version of the Genshin/Yuanshen **Release**, **Beta** and **Audio** files
-
-### What is _"autopatchhk"_ and _"autopatchcn"_
-* **autopatchhk** - Genshin Impact
-* **autopatchcn** - Yuanshen or 原神
-
-### What's the difference between _"Genshin"_ and _"Yuanshen"_?
-* **Genshin Impact** - Overseas/Global Version
-* **Yuanshen** - Chinese Version
----
-**Note**: 
-* This repository will update from time to time when new version of the game gets released.
-* This repository is for archive purposes only.
-* Anyone can contribute to this Repository.
----
-### Unofficial re-uploads
-[Gaobaiawa 123 Cloud Disk](https://www.123pan.com/s/HoqUVv-U7SBA.html)
+## 〢 贡献者
+感谢所有贡献者对本项目的奉献！  
+以下是本仓库的主要贡献者：
+<div align="center">
+    <table>
+        <tr>
+            <td>
+                <h3>DuolaDStudio Hong Kong Ltd.</h3>
+                <a href="https://github.com/DuolaDStudio">
+                    <img src="https://avatars.githubusercontent.com/u/152937804?s=200&v=4" width="70" style="border-radius: 50%" alt="DuolaDStudio Hong Kong Ltd.">
+                </a>
+		<h3>也就是以下成员：</h3>
+		<h5>哆啦D夢|DuolaD & 琳尼特|LynetteNotFound</h5>
+		<a href="https://github.com/DuolaD"><img src="https://avatars.githubusercontent.com/u/110040721?v=4" width="70" style="border-radius: 50%" alt="DuolaD"></img></a>
+		<a href="https://github.com/LynetteNotFound">
+                    <img src="https://avatars.githubusercontent.com/u/159673876?v=4" width="70" style="border-radius: 50%" alt="LynetteNotFound">
+                </a>
+            </td>
+	    <td>
+                <a href="https://github.com/DuolaDStudio">组织的GitHub主页</a><br>
+		<a href="https://github.com/DuolaD">哆啦D夢|DuolaD的GitHub个人主页</a><br>
+		<a href="https://github.com/LynetteNotFound">琳尼特|LynetteNotFound的GitHub个人主页</a><br>
+		<br>
+		<a>注意:哆啦D夢|DuolaD其它个人主页链接见上;</a><br>
+		<a>琳尼特|LynetteNotFound没有公开联系方式</a>
+            </td>
+	</tr>
+</div>
