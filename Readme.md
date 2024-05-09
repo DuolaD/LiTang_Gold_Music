@@ -20,8 +20,8 @@
 
 ## 〢 如何找到自己想听的歌曲
 * 在代码区中选择对应歌曲的文件夹并查看Readme.md说明文档。
-* 通常一个歌曲的文件夹中都会有Readme.md说明文档、flac歌曲音频视频及其MP4视频文件，你可以直接下载代码区中的文件。
-* 但由于GitHub代码区限制单个文件大小为25MB，所以有些文件并不会出现在代码区中。请自行[前往Release界面](https://github.com/DuolaD/LiTang_Gold_Music/releases)或前往对应歌曲文件夹中的Readme.md说明文档中标明的Release页面链接查看并获取所有文件。Release文件中的内容和代码区文件中的内容是一样的。
+* 通常一个歌曲的文件夹中都会有Readme.md说明文档、封面图片、flac歌曲音频视频及其MP4视频文件，你可以直接下载代码区中的文件。
+* 但由于GitHub代码区限制单个文件大小为25MB，所以有些文件并不会出现在代码区中。请自行[前往Release界面](https://github.com/DuolaD/LiTang_Gold_Music/releases)或前往对应歌曲文件夹中的Readme.md说明文档中标明的Release链接查看并获取所有文件。Release文件中的内容和代码区文件中的内容是一样的。
 
 **注意**: 
 * 这个仓库可能会不定时更新。
