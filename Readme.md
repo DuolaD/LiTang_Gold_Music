@@ -1,17 +1,14 @@
 <div align="center">
-  <h1 class="header">LiTang_Gold_Music(理塘金曲收录/补档合集)</h1>
+  <h1 class="header">LiTang_Gold_Music</h1>
+  <h3>
+    (理塘金曲收录/补档合集)
+  </h3>
   <h3>
     智慧不是生命的第一选择，锐刻才是
   </h3>
 </div>
 
-  ![Compressed](Readme.md-image/compressed.png)
-
-<div align="center">
-  <h3>
-    封面来源：<a href="https://b23.tv/f4Utef8">爱吃披萨の盖瑞</a> - <a href="https://b23.tv/viAdTXS">SMOKE INSIDE</a>
-  </h3>
-</div>
+  ![Compressed](Readme.md-image/Compressed2.png)
 
 ## 〢 介绍 and 仓库里面有什么？
 * 这个仓库主要用于收录/补档曾经流传于各网站上的理塘金曲。
