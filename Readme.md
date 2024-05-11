@@ -8,7 +8,9 @@
   </h3>
 </div>
 
-  ![Compressed](Readme.md-image/Compressed2.png)
+<div align="center">
+    <img src="Readme.md-image/Compressed2.png" alt="Tenzin Tsundue" />
+</div>
 
 ## 〢 介绍 and 仓库里面有什么？
 * 这个仓库主要用于收录/补档曾经流传于各网站上的理塘金曲。
